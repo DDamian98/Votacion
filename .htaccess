@@ -1,5 +1,1 @@
-SetEnv MYSQLHOST containers-us-west-101.railway.app
-SetEnv MYSQLUSER root
-SetEnv MYSQLPASSWORD bRqrj3J5xnvVatJQv9NR
-SetEnv MYSQLDATABASE railway
-SetEnv POORT 7127
+
